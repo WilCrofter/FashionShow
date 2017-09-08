@@ -1,5 +1,207 @@
-<center><img src="resources/title.svg"/></center>
+<center><img src="resources/title.svg"/>
+
+<br/><br/><br/><br/>
+
+<h2>A work of (interactive) fiction. Any resemblance to real persons or events is entirely coincidental.</h2>
+</center>
+
+[Click here for instructions on how to play.](howto)
+
+[Click here to see the cast.](cast)  
+
+[[Click here to play.]](play)
+
+[howto]:
+
+It's simple. Just click on the link which describes what you think the protagonist should do.
+
+If, at any point, you want to restart the game, click the restart link in the upper right.
+
+[cast]:
+
+<center>
+<h1>Cast of Characters</h1>
+</center>
 
 <br/><br/><br/>
 
-This is a work of (interactive) fiction. Any resemblance to real persons or events is purely coincidental.
+**ME:**  The protagonist.
+
+**LO:**  Late October, a fashion model.
+
+**NIQUE:**  Another fashion model. (She's French.)
+
+**BUD:**  A male fashion model.
+
+**THE GUY:**  Fashion designer, creator and all-around boss.
+
+
+[[play]]:
+@clear
+
+*Scene: The middle of nowhere.*
+
+I caught the wrong bus!
+
+I can't believe it! I'm supposed to be in Middle *School* and here I am in the middle of *nowhere*. What should I do? [Cry]? [Use my cell phone]? [Look around]? 
+
+[Cry]:
+
+**ME:** Boo-hoo!
+
+OK. That felt good.
+
+[Use my cell phone]:
+
+There's no reception. This is the middle of nowhere.
+
+[Look around]:
+
+The only thing in sight is a ramshackle building with a sign I can't quite read. I'll need to [[move closer]].
+
+[[move closer]]:
+
+Now I can read the sign. It says, "Fashion Show in Progress." Really? A fashion show in the middle of nowhere? Why?
+
+Uh-oh. Someone is coming. I don't know her but she looks oddly familiar.
+
+**LO:** Hi there! I love your bell-bottoms. It's a real 80's look!
+
++++Continue
+
+@clear
+
+<table><tr>
+<td>**ME:** You look strangely familiar.<br/><br/>
+**LO:** I get that a lot, except for the familiar part.<br/><br/>
+**ME:** Can you help me?<br/><br/>
+**LO:** When are you on the runway?<br/><br/>
+**ME:** Actually, I'm here by mistake. I need a ride back to Middle School.<br/><br/>
+**LO:** Hmm. Well, I'm on the runway in five--the Late October look you know--but I'm sure someone inside can help you.<br/><br/>
+**ME:** OK, thanks. By the way, what kind of material are you wearing? I've never seen that before.<br/><br/>
+**LO:** Some kind of synthetic, I think. Gotta run. Good luck.<br/><br/>
+**ME:** (Waving goodbye.) I like your hat!
+</td>
+<td><img src="resources/lateoctober.svg"/></td>
+</tr>
+</table>
+
++++I guess I'll go inside.
+@clear
+
+*Scene: Inside the ramshackle building.*
+
+<center><img src="resources/dressingrooms.svg" /></center>
+
+That sign is confusing. The "MEN" arrow is above the lady icon and the "LADIES" arrow is above the man icon.
+
+Maybe, instead of "LADIES" they meant "LADDIES" but misspelled it? And maybe the "MEN" label was once "WOMEN" but the "WO" got worn off?
+
+I don't know which way to go. Should I go [[LEFT]](mens) or [[RIGHT]](mens)?
+
+[[mens]]:
+@clear
+
+*Scene: Vestibule outside of the men's dressing room.*
+
+<table><tr>
+<td> 
+**BUD:** *(Entering vestibule from men's dressing room, swaying as if listening to music, though there are no ear buds in sight.)* Hey, there! I like your bell bottoms, but you're in the wrong place.<br/><br/>
+**ME:** You look strangely familiar.<br/><br/> 
+**BUD:** *(Swaying, bobbing head,)* I get that. You part of the 80's look?<br/><br/>
+**ME:** To tell the truth, I'm here by mistake. I need a ride back to Middle School.<br/><br/>
+**BUD:** I get that. I bet THE GUY could help you out.<br/><br/> 
+**ME:** The guy?<br/><br/> 
+**BUD:** THE GUY. He runs the show.<br/><br/>
+**ME:** Where can I find him?<br/><br/> 
+**BUD:** He's usually in THE PLACE. It's through the dressing rooms, but you don't want to go through this one.<br/><br/>
+**ME:** Right.<br/><br/>
+**BUD:** It isn't pretty...well, actually, it is pretty. Still..<br/><br/>
+**ME:** I'll go through the other one.<br/><br/>
+**BUD:** I get that. Be cool.
+</td>
+<td><img src="resources/bud.svg"/></td>
+</tr></table>
+
++++Go through the other dressing room.
+@clear
+
+*Scene: The ladies' dressing room.*
+
+<table><tr>
+<td><img src="resources/nique.svg"/></td>
+<td>
+**NIQUE:** *(Emerging from behind a locker and pointing to the bell bottoms.)* *Bonjour*! I love zoze *fond de cloche*.<br/><br/>
+**ME:** Thanks. I like your outfit too. What kind of material is that?<br/><br/>
+**NIQUE:** *Je n'ai aucune idée.* Some synthetic maybe?<br/><br/>
+**ME:** I'm going to see THE GUY. I understand he's in THE PLACE, back this way?<br/><br/>
+**NIQUE:** Ooh, *LE LIEU*. Is big *secret*. He let no one in. You must knock loudly, *vraiment fort*!<br/><br/>
+**ME:** OK. Thanks for the tip.<br/><br/>
+**NIQUE:** Good luck, *mon cher*. 
+</td></tr></table>
+
++++Go to THE PLACE
+@clear
+
+*Scene: Outside THE PLACE. The door is closed. Machinery noise emerges.*
+
+Wow! I've been knocking for five minutes. Maybe he can't hear me. It's really noisy in there. It seems impolite to [knock louder] but maybe I should. Or maybe I should [try something else]. What though?
+
+[knock louder]:
+
+Ouch! My knuckles are sore. I'll either have to [[try something else]] or start [kicking the door]. What should I do?
+
+[kicking the door]:
+
+He still can't hear me. Maybe he's not even in there. I'll have to [try something else].
+
+[[try something else]]:
+
+I don't know what to do. Should I [[look around]] or just [[give up]]?
+
+[[give up]]:
+
+Shoot! I've tripped over the door mat. Wait! There's key under it! Now I can use the key to [[unlock the door]].
+
+[[look around]]:
+
+All I can see is a door mat. Wait! People sometimes leave keys under doormats. 
+
+Sure enough! Here's a key! I can use it to [[get in THE PLACE]](unlock the door). What luck!
+
+[[unlock the door]]:
+@clear
+
+*Scene: THE PLACE. THE GUY is inside wearing noise-cancelling earphones. He takes them off. He looks surprised.*
+
+<table><tr>
+<td>
+**THE GUY:** Hey! Fashion models aren't supposed to see what's in here!<br/><br/>
+**ME:** I'm not a fashion model! I'm here by mistake. I need a ride.<br/><br/>
+**THE GUY:** You're not a fashion model? What about the bell bottoms?<br/><br/>
+**ME:** The bell bottoms are another mistake! Listen, I just need a ride back to Middle School. I won't tell anyone what you're doing in here. What *are* you doing in here anyway?<br/><br/>
+**THE GUY:** This is where I create my fashions.<br/><br/>
+**ME:** The machines look like 3D printers.<br/><br/>
+**THE GUY:** Yup. That's how I do it. I download the latest fashions from New York and 3D print them. You say you just need a ride?<br/><br/>
+**ME:** That's all.<br/><br/>
+**THE GUY:** As it happens, I've just 3D printed a folding bicycle. Will that do?<br/><br/>
+**ME:** Sure. It's the best offer I've had today.<br/><br/>
+**THE GUY:** When you get back, just fold up the bike and stick it in an envelope. Mail it to this address.<br/><br/>
+**ME:** Carrotsville?<br/><br/>
+**THE GUY:** Yeah. They used to grow a lot of carrots here. There's no money in it any more.<br/><br/>
+**ME:** Thanks so much for your help.<br/><br/>
+**THE GUY:** You're welcome. And, since you know my secret, if you ever want to become a fashion designer you know where to find me.
+</td>
+<td><img src="resources/theguy.svg"/></td>
+</tr></table>
+
+[[Epilogue]]
+
+[[Epilogue]]:
+@clear
+It was no problem to ride the bike back to Middle School. I was late, but as luck would have it there had been a fire drill as soon as everyone got to class and everyone was still outside. I folded up the bike and stuck it in my pocket. No one ever knew I was late. Except you. Don't tell.
+
+<center><h2>THE END</h2></center>
+
+
+
