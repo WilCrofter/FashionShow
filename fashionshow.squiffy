@@ -145,7 +145,7 @@ I don't know which way to go. Should I go [[LEFT]](mens) or [[RIGHT]](mens)?
 
 *Scene: Outside THE PLACE. The door is closed. Machinery noise emerges.*
 
-Wow! I've been knocking for five minutes. Maybe he can't hear me. It's really noisy in there. It seems impolite to [knock louder] but maybe I should. Or maybe I should [try something else]. What though?
+Wow! I've been knocking for five minutes. Maybe he can't hear me. It's really noisy in there. It seems impolite to [knock louder] but maybe I should. Or maybe I should [[try something else]]. What though?
 
 [knock louder]:
 
@@ -153,7 +153,7 @@ Ouch! My knuckles are sore. I'll either have to [[try something else]] or start 
 
 [kicking the door]:
 
-He still can't hear me. Maybe he's not even in there. I'll have to [try something else].
+He still can't hear me. Maybe he's not even in there. I'll have to [[try something else]].
 
 [[try something else]]:
 
