@@ -2,7 +2,7 @@
 
 **A prototype squiffy game designed to gauge interest among certain K-12 persons.**
 
-Play the game [here](http://wilcrofter.github.io/fashionshow/index.html). 
+Play the game [here](http://wilcrofter.github.io/FashionShow/index.html). 
 
 This semester (Fall 2017) the K-12 educational establishment seems particularly interested in teaching game programming. CoderDojo, for instance, has a new nanobook, [Make Your Own Game](https://www.raspberrypi.org/blog/coderdojo-nano/) and the Raspberry Pi Foundation has a [new online course for teachers](https://www.raspberrypi.org/blog/text-based-futurelearn/) based on coding a text adventure game.
 
