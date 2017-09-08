@@ -718,7 +718,7 @@ squiffy.story.sections = {
 	},
 	'Epilogue': {
 		'clear': true,
-		'text': "<p>It was no problem to ride the bike back to Middle School. I was late, but as luck would have it there had been a fire drill as soon as everyone got to class and everyone was still outside. I folded up the bike and stuck it in my pocket. No one ever knew I was late. Except you. Don&#39;t tell.</p>\n<center><h2>THE END</h2></center>",
+		'text': "<p>It was no problem to ride the bike back to Middle School. I was late, but as luck would have it there had been a fire drill as soon as everyone got to class and they were still outside. I folded up the bike and stuck it in my pocket. No one ever knew I was late. Except you. Don&#39;t tell.</p>\n<center><h2>THE END</h2></center>",
 		'passages': {
 		},
 	},
